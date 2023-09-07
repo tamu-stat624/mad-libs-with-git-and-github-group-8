@@ -14,8 +14,8 @@
 14. Activity
 15. Adverb
 16. Number
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
+17. seconds
+18. travel
+19. fast
+20. rocket
+21. Arushi
