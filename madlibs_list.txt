@@ -9,11 +9,11 @@
 9. Noun
 10. Room Name
 11. Liquid
-12. large
-13. silk
-14. surfing
-15. joyfully
-16. 100
+12. Adjective
+13. Material
+14. Activity
+15. Adverb
+16. Number
 17. seconds
 18. travel
 19. fast
