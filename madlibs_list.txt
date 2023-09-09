@@ -4,22 +4,6 @@
 4. blue
 5. December
 6. 8
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
-11. Liquid
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
-16. Number
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
-
 7. satellites
 8. cluster
 9. stars
